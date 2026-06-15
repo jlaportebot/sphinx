@@ -121,6 +121,7 @@ test = [
     "defusedxml>=0.7.1",  # for secure XML/HTML parsing
     "setuptools>=70.0",  # for Cython compilation
     "typing_extensions>=4.9",  # for typing_extensions.Unpack
+    "hypothesis>=6.155.2",
 ]
 translations = [
     "babel>=2.13",
